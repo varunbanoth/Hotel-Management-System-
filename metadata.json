@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Hotel Manager",
+  "description": "A comprehensive hotel reservation system featuring room management, customer registration, booking workflows with automatic price calculation, and payment tracking, designed with a Supabase-ready architecture.",
+  "requestFramePermissions": []
+}
